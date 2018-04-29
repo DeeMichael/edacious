@@ -5,7 +5,7 @@ import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
 
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
